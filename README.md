@@ -14,7 +14,6 @@
     <img align="center" alt='html5' width='50px'src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg' />
     <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg' />
     <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg' />
-    <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg' />
 </div><br/>
 
 ## Entre em contato📧
