@@ -11,7 +11,6 @@
     <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg' />
     <img align="center" alt='html5' width='50px'src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg' />
     <img align="center" alt='html5' width='50px'src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg' />
-    <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg' />
     <img align="center" alt='html5' width='50px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg' />
 </div><br/>
 
