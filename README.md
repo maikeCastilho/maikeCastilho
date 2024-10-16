@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**maikeCastilho/maikeCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.linkedin.com/in/maike-castilho-5161191b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="mailto:maikecastilho18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+
+
+**💻 Tech**
+
+
+[![My Skills](https://skillicons.dev/icons?i=cs,net,flutter,dart,postman,mysql,gradle,py,anaconda,bootstrap,html,css)](https://skillicons.dev)
+
+
+**🛠️ IDE's**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,rider,pycharm,community)](https://skillicons.dev)
+
+**⚙️ DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes)](https://skillicons.dev)
+
+
+
