@@ -10,7 +10,7 @@
 **💻 Tech**
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,flutter,dart,postman,mysql,gradle,py,anaconda,bootstrap,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,flutter,dart,postman,mysql,py,anaconda,bootstrap,html,css)](https://skillicons.dev)
 
 
 **🛠️ IDE's**
