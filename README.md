@@ -19,7 +19,7 @@
 
 **⚙️ DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
 
 
