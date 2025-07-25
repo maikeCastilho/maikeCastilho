@@ -15,11 +15,11 @@
 
 **🛠️ IDE's**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,rider,pycharm,community)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,community)](https://skillicons.dev)
 
 **⚙️ DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 
 
